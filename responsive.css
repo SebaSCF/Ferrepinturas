@@ -1,0 +1,231 @@
+@media (min-width: 126px) {
+    .flex-xs-column {
+        flex-direction: column;
+    }
+    .navbar-brand img {
+        visibility: hidden !important;
+    }
+    .display-3 {
+        font-size: 37px !important;
+    }
+    .display-4 {
+        font-size: 50px !important;
+    }
+    .p-2 {
+        text-align: center;
+    }
+    .img {
+        width: 80%;
+        margin-left: 40px;
+    }
+    .imx {
+        width: 80%;
+        margin-left: 40px;
+    }
+    .btnEnviar {
+        transform: translate(25px);
+        width: 150px;
+    }
+    .display-2 {
+        font-size: 43px !important;
+    }
+}
+
+@media (min-width: 326px) {
+    .flex-xs-column {
+        flex-direction: column;
+    }
+    .navbar-brand img {
+        visibility: hidden !important;
+    }
+    .display-3 {
+        font-size: 40px !important;
+    }
+    .display-4 {
+        font-size: 50px !important;
+    }
+    .display-2 {
+        font-size: 88px !important;
+    }
+    .p-2 {
+        text-align: center;
+    }
+    .img {
+        width: 80%;
+        margin-left: 40px;
+    }
+    .imx {
+        width: 80%;
+        margin-left: 40px;
+    }
+    .btnEnviar {
+        transform: translate(45px);
+        width: 150px;
+    }
+    .display-2 {
+        font-size: 50px !important;
+    }
+    .lead{
+        visibility: visible;
+        padding-top: 140px;
+    }
+    .header{
+        padding-bottom: 0px;
+    }
+}
+
+@media (min-width: 576px) {
+    .p-2 {
+        text-align: center;
+    }
+    .flex-xs-column {
+        flex-direction: column;
+    }
+    .navbar-brand img {
+        visibility: hidden !important;
+    }
+    .display-3 {
+        font-size: 40px !important;
+    }
+    .display-4 {
+        font-size: 70px !important;
+    }
+    .img {
+        margin-left: 0px;
+    }
+    .imx {
+        margin-left: 0px;
+    }
+    .display-2 {
+        font-size: 72px;
+    }
+    .btnEnviar {
+        transform: translate(165px);
+        width: 155px;
+    }
+    .lead{
+        visibility: hidden;
+        padding-top: 0px;
+    }
+    .header{
+        padding-bottom: 0px;
+    }
+}
+
+@media (min-width: 768px) {
+    .navbar-brand img {
+        visibility: hidden !important;
+    }
+    .display-3 {
+        font-size: 50px !important;
+    }
+    .display-4 {
+        font-size: 50px !important;
+    }
+    .img {
+        margin-left: 0px;
+    }
+    .display-2 {
+        font-size: 108px !important;
+    }
+    .img {
+        visibility: visible;
+    }
+    .imx {
+        visibility: visible;
+    }
+    .btnEnviar {
+        width: 40%;
+    }
+    .lead{
+        visibility: hidden;
+        padding-top: 0px;
+    }
+    .header{
+        padding-bottom: 0px;
+    }
+
+}
+
+@media (min-width: 992px) {
+    .navbar-brand img {
+        visibility: visible !important;
+    }
+    .display-3 {
+        font-size: 105px !important;
+    }
+    .display-4 {
+        font-size: 105px !important;
+    }
+    .img {
+        margin-left: 0px;
+    }
+    .display-2 {
+        font-size: 108px !important;
+    }
+    .img {
+        visibility: visible;
+    }
+    .imx {
+        visibility: visible;
+    }
+    .btnEnviar {
+        width: 40%;
+    }
+    .lead{
+        visibility: visible;
+        padding-top: 140px;
+    }
+}
+
+@media (min-width: 1250px) {
+    .navbar-brand img {
+        visibility: visible !important;
+    }
+    .img {
+        width: 90%;
+    }
+    .display-3 {
+        font-size: 122px !important;
+    }
+    .display-2 {
+        font-size: 110px !important;
+    }
+    .img {
+        visibility: visible;
+    }
+    .imx {
+        visibility: visible;
+    }
+    .btnEnviar {
+        width: 40%;
+    }
+    .lead{
+        visibility: visible;
+        padding-top: 140px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .navbar-brand img {
+        visibility: visible !important;
+    }
+    .display-3 {
+        font-size: 122px !important;
+    }
+    .display-2 {
+        font-size: 110px !important;
+    }
+    .img {
+        visibility: visible;
+    }
+    .imx {
+        visibility: visible;
+    }
+    .btnEnviar {
+        width: 40%;
+    }
+    .lead{
+        visibility: visible;
+    }
+}
